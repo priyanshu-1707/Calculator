@@ -17,11 +17,8 @@ Divide
 # Built With
 
 love
-
 html
-
 css
-
 javascript
 
 # How to Run?
